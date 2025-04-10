@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>I'm Sorry, My Love</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>I'm Sorry Gloria 💔</h1>
+    <p>
+      My dearest Gloria,<br><br>
+      I know I’ve hurt you with my words or actions, and I can never express how deeply sorry I am. I hate that I made you feel upset, even for a moment. <br><br>
+      You are the most precious part of my life, and I never want to see you sad — especially not because of me. I miss your smile, your voice, and the way you say my name. <br><br>
+      Please forgive me, papaaaaa. I promise to be better, love you harder, and never take you for granted again.<br><br>
+      I love you more than words could ever describe. Always yours, no matter what. ❤️<br><br>
+      – Your Avinash
+    </p>
+    <div class="heart">&#10084;</div>
+  </div>
+</body>
+</html>
